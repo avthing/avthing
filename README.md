@@ -37,8 +37,9 @@
       <sub><code>瀏覽器擴充功能</code> · <code>JavaScript</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🕸️ costars-tool <sup>即將公開</sup></h3>
-      <b>合作關聯圖</b>：2D／3D／4D 的離線互動視覺化，距離＝合作次數，垂直軸＝時間。<br><br>
+      <h3>🕸️ <a href="https://github.com/avthing/costars-tool">costars-tool</a></h3>
+      <b>合作關聯圖</b>：2D／3D／4D 的離線互動視覺化，距離＝合作次數，垂直軸＝時間。<br>
+      <a href="https://avthing.github.io/costars-demo/">▶ 線上示範</a><br><br>
       <sub><code>WebGL</code> · <code>Python</code> · <code>Node.js</code></sub>
     </td>
   </tr>
