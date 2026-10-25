@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="AVthing — small tools, openly built">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f3ff"/>
+      <stop offset="1" stop-color="#ffe9f3"/>
+    </linearGradient>
+    <linearGradient id="ttl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d1b3a"/>
+      <stop offset="1" stop-color="#5b4bd6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8b7bff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#8b7bff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)" stroke="#e3dcf7"/>
+  <circle cx="960" cy="140" r="190" fill="url(#glow)"/>
+  <g fill="none" stroke="#7b6bf0" stroke-opacity="0.4" stroke-dasharray="3 7">
+    <ellipse cx="960" cy="140" rx="70" ry="52"/>
+    <ellipse cx="960" cy="140" rx="130" ry="96"/>
+    <ellipse cx="960" cy="140" rx="190" ry="136"/>
+  </g>
+  <g stroke="#e0357f" stroke-opacity="0.5" stroke-width="1.6">
+    <line x1="960" y1="140" x2="872" y2="86"/>
+    <line x1="960" y1="140" x2="1062" y2="196"/>
+    <line x1="960" y1="140" x2="1040" y2="64"/>
+    <line x1="960" y1="140" x2="1112" y2="150"/>
+    <line x1="960" y1="140" x2="900" y2="214"/>
+    <line x1="872" y1="86" x2="1040" y2="64" stroke="#7b6bf0" stroke-opacity="0.35"/>
+    <line x1="1062" y1="196" x2="1112" y2="150" stroke="#7b6bf0" stroke-opacity="0.35"/>
+  </g>
+  <circle cx="960" cy="140" r="16" fill="#e0357f"/>
+  <circle cx="872" cy="86" r="9" fill="#7b6bf0"/>
+  <circle cx="1062" cy="196" r="12" fill="#7b6bf0"/>
+  <circle cx="1040" cy="64" r="7" fill="#e0357f"/>
+  <circle cx="1112" cy="150" r="8" fill="#7b6bf0"/>
+  <circle cx="900" cy="214" r="6" fill="#e0357f"/>
+  <text x="72" y="148" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="92" font-weight="800" letter-spacing="-2" fill="url(#ttl)">AVthing</text>
+  <text x="76" y="196" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" fill="#5d5a7d">Small tools, openly built.</text>
+  <text x="76" y="238" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#d02a74">OPEN SOURCE  ·  AGPL-3.0</text>
+</svg>
